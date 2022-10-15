@@ -1,3 +1,6 @@
+#PSYCO QUIZ DEL 15 ottobre 2022ù
+#Approccio a forza bruta senza nessun pensiero all'ottimizzazione
+
 A=[ 0 0 0 0 0 0 0 0 0 0];
 t=1;
 for a=1:9
